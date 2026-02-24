@@ -69,8 +69,8 @@ I build applications with:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorSkull&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSkull&layout=compact&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorSkull&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSkull&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -93,5 +93,6 @@ I’m open to opportunities as:
 - Full Stack Developer
 - Backend Java Developer
 - Frontend Vue Developer
+
 
 Feel free to reach out — I’d be happy to connect.
